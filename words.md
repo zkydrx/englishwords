@@ -305,10 +305,10 @@
 99. generate ['dʒɛnəret] 
    vt. 使形成；发生；生殖；产生物理反应 
 100. 持久性 [chí jiǔ xìng] 
-   durability; 
-   endorance; 
-   perdurability; 
-   persistance 
+  durability; 
+  endorance; 
+  perdurability; 
+  persistance 
 101. 吸血鬼数 
 102. infinity [ɪn'fɪnɪtɪ] 
     n. 无穷；无限大；无限距 
