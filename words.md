@@ -305,10 +305,10 @@
 99. generate ['dʒɛnəret] 
    vt. 使形成；发生；生殖；产生物理反应 
 100. 持久性 [chí jiǔ xìng] 
-  durability; 
-  endorance; 
-  perdurability; 
-  persistance 
+   durability; 
+   endorance; 
+   perdurability; 
+   persistance 
 101. 吸血鬼数 
 102. infinity [ɪn'fɪnɪtɪ] 
     n. 无穷；无限大；无限距 
@@ -1290,3 +1290,444 @@
     Ingredients: 成分 | 配料 | 材料 
 391. encounted 
     encounted: 弱能 | 中遇到 | 遇到了 
+392. dirt [dɜːt] 
+    n. 污垢，泥土；灰尘，尘土；下流话 
+    dirt: 污物 | 污垢 | 尘埃 
+393. interfere [ɪntə'fɪə] 
+    vi. 干涉；妨碍；打扰 
+    vt. 冲突；介入 
+394. creative process 
+    创意过程 
+    creative process: 创意过程 | 创造过程 | 创新过程 
+395. minimalistic 
+    极简化的 
+    简约的 
+    minimalistic: 太简单 
+396. free stock 
+    游离状浆料；共砧 
+    free stock: 游离状浆料 | 共砧 | 易耗品 
+397. concepts 
+    n. 概念，观念；思想（concept复数形式） 
+    Concepts: 概念 (C++) | 概念 | 运动鞋与休闲服饰店 
+398. separate [(for v.) ˈsepəreɪt; (for adj.) ˈseprət] 
+    n. .分开；抽印本 
+    adj. 单独的；分开的；不同的；各自的； 
+    vt. 使分离；使分开；使分居 
+    vi. 分开；隔开；分居 
+399. I WILL 
+    星愿（歌曲名） 
+    I Will: I WILL (安室奈美惠单曲) | 我愿意 | 星愿 
+400. require [rɪ'kwaɪə] 
+    vt. 需要；要求；命令 
+401. confidentiality [,kɒnfɪ,denʃɪ'ælɪtɪ] 
+    n. 机密，[计] 机密性 
+402. fairly ['feəlɪ] 
+    adv. 相当地；公平地；简直 
+    n. (Fairly)人名；(英)费尔利 
+    fairly: 相当地 | 公平地 | 公正地 
+403. experts ['ekspɜ:ts] 
+    n. 专家；人才（expert的复数形式） 
+    experts: 专家 | 媒体报道 | 专家团队 
+404. elite [[eɪˈliːt]] 
+    n. 精英；精华；中坚分子 
+    Elite: 精英 | 社会名流 | 名校 
+405. Twittersphere 
+    Twittersphere: 推特圈 
+406. advocates ['ædvəkeɪt] 
+    vt. 主张（advocate的第三人称单数）；提倡 
+    n. 拥护者；提倡者（advocate的复数）；代讼人 
+    Advocates: 倡导者 | 代讼人 | 机缘主义者 
+407. performance [pə'fɔːm(ə)ns] 
+    n. 性能；绩效；表演；执行；表现 
+    performance: 性能 | 演出 | 绩效 
+408. protest [prəˈtest;ˈprəʊtest] 
+    n. 抗议 
+    adj. 表示抗议的；抗议性的 
+    vi. 抗议；断言 
+    vt. 抗议；断言 
+    Protest: 抗议 | 抗议 | 对不公平裁判的抗议 
+409. mobilization [,məʊbɪlaɪ'zeɪʃən] 
+    n. 动员；调动 
+    Mobilization: 动员 | 活动化 | 可动化 
+410. tenants 
+    n. 房客；居住者（tenant的复数形式） 
+    v. 租借（tenant的第三人称单数） 
+    Tenants: 租户 | 房客 | 住户 
+411. Oregon ['ɔriɡən; -ɡɔn] 
+    n. 俄勒冈州（美国州名） 
+    Oregon: 俄勒冈州 | 俄勒冈 | 欧西亚 
+412. legislature ['ledʒɪslətʃə] 
+    n. 立法机关；立法机构 
+    legislature: 立法机关 | 立法机构 | 立法机构 
+413. involves 
+    v. 包含；牵涉（involve的第三人称单数形式） 
+    involves: 包括 | 涉及 | 涉及到 
+414. equally ['iːkw(ə)lɪ] 
+    adv. 同样地；相等地，平等地；公平地 
+    Equally: 平分 | 相等地 | 平等地 
+415. racism ['reɪsɪz(ə)m] 
+    n. 种族主义，种族歧视；人种偏见 
+    racism: 种族主义 | 种族主义 | 种族歧视 
+416. society [sə'saɪətɪ] 
+    n. 社会；交往；社团；社交界 
+    Society: 社会 | 学会 | 社会 
+417. root out 
+    根除；连根拔起；发现 
+    Root out: 连根拔除 | 发现 | 垂直视角的射击游戏 
+418. perpetuate [pə'petʃʊeɪt; -tjʊ-] 
+    vt. 使不朽；保持 
+    adj. 长存的 
+    perpetuate: 使永久 | 使永存 | 使不朽 
+419. complicit [kəm'plɪsɪt] 
+    adj. 有同谋关系的，串通一气的 
+    Complicit: 串通一气 | 有同谋关系的 
+420. founder ['faʊndə(r)] 
+    n. 创始人；建立者；翻沙工 
+    vt. 破坏；使摔倒；垮掉 
+    vi. 失败；沉没；倒塌；变跛 
+    Founder: 方正 | 创始人 | 创办人 
+421. fridge [frɪdʒ] 
+    n. 电冰箱 
+    n. (Fridge)人名；(英)弗里奇 
+    fridge: 冰箱 | 电冰箱 | 冷冻机 
+422. demo ['deməʊ] 
+    n. 演示；样本唱片；示威；民主党员 
+    n. (Demo)人名；(意、阿尔巴)德莫 
+    Demo: 演示 | 样本唱片 | 小样 
+423. award [ə'wɔːd] 
+    n. 奖品；判决 
+    vt. 授予；判定 
+    award: 奖励 | 授予 | 奖 
+424. conference ['kɒnf(ə)r(ə)ns] 
+    n. 会议；协商；讨论；联盟 
+    Conference: 会议 | 大会 | 讨论会 
+425. information processing 
+    信息处理；信息加工；情报整理 
+    information processing: 信息处理 | 信息加工 | 讯息处理 
+426. value appreciation 
+    升值 
+    value appreciation: 增值 | 价值增值性 | 价值评估 
+427. hotspot ['hɒtspɒt] 
+    n. 热点；热区 
+    HotSpot: HotSpot (java) | 热点 | 热点 
+428. consistent with 
+    符合；与…一致 
+    consistent with: 一致 | 符合 | 前后一致的 
+429. present perfect tense 
+    现在完成式 
+    Present Perfect Tense: 现在完成时 | 现在完成式 | 过去完成时 
+430. simple past tense 
+    一般过去时 
+    Simple past tense: 一般过去时 | 简单过去式 | 去时 
+431. truly ['truːlɪ] 
+    adv. 真实地，不假；真诚地 
+    n. (Truly)人名；(英)特鲁利 
+    Truly: 信利 | 真实地 | 真诚地 
+432. content [kən'tent] 
+    n. 内容，目录；满足；容量 
+    vt. 使满足 
+    adj. 满意的 
+    n. (Content)人名；(法)孔唐 
+    Content: 内容 | 含量 | 整个页面 
+433. interest ['ɪnt(ə)rɪst] 
+    n. 兴趣，爱好；利息；趣味；同行 
+    vt. 使……感兴趣；引起……的关心；使……参与 
+    Interest: 利息 | 兴趣 | 利益 
+434. peaks [pi:ks] 
+    n. 山顶；峰巅（peak的复数） 
+    Peaks: 峰峦 | 群峰 | 两变量的样本函数 
+435. entire process 
+    全过程 
+    Entire process: 全过程 | 全过程 | 全部过程 
+436. bat [bæt] 
+    n. 蝙蝠；球棒；球拍；批处理文件的扩展名 
+    vt. 用球棒击球；击球率达… 
+    vi. 轮到击球；用球棒击球 
+    n. (Bat)人名；(蒙、英)巴特 
+    bat: 蝙蝠 | 球棒 | 球拍 
+437. extended [ɪk'stendɪd; ek-] 
+    adj. 延伸的；扩大的；长期的；广大的 
+    v. 延长；扩充（extend的过去分词） 
+    extended: 扩展端口信息 | 扩展 | 延伸 
+438. comparables 
+    n. 比较个案；比较数据 
+    comparables: 比较数据 | 比较个案 | 类比法 
+439. surf [sɜːf] 
+    n. 海浪，拍岸浪 
+    n. (Surf)人名；(英)瑟夫 
+    vt. 在…冲浪 
+    vi. 作冲浪运动 
+    surf: 冲浪 | 加速稳健特征 | 克里斯巴克 
+440. credits ['kredɪts] 
+    n. 学分（credit的复数）；[金融] 信用；工作人员；演职员名单 
+    v. 相信；归因于（credit的三单形式） 
+    Credits: 学分 | 积分 | 关于作者 
+441. hits [hits] 
+    n. 击打；网页点击数；采样数（hit的复数） 
+    v. 打击（hit的第三人称单数） 
+    Hits: 点击数 | 匹配记录 | 安打 
+442. links [lɪŋks] 
+    n. [计] 链接（link的复数）；沙地；沙丘 
+    Links: 友情链接 | Links | Links 
+443. thread [θred] 
+    n. 线；螺纹；思路；衣服；线状物；玻璃纤维；路线 
+    vi. 通过；穿透过 
+    vt. 穿过；穿线于；使交织 
+    Thread: 线程 | 螺纹 | 跟帖 
+444. algorithms ['ælgərɪð(ə)mz] 
+    n. [计][数] 算法；算法式（algorithm的复数） 
+    Algorithms: 算法 | 演算法 | 运算法则 
+445. garbage ['gɑːbɪdʒ] 
+    n. 垃圾；废物 
+    n. (Garbage)人名；(法)加尔巴热 
+    Garbage: 垃圾 | 垃圾合唱团 | 废物 
+446. kinda ['kaɪndə] 
+    adv. 有一点；有几分 
+    n. (Kinda)人名；(匈)金道；(捷)金达 
+    kinda: 有一点 | 有点 | 还挺 
+447. crack [kræk] 
+    vt. 使破裂；打开；变声 
+    adj. 最好的；高明的 
+    vi. 破裂；爆裂 
+    n. 裂缝；声变；噼啪声 
+    crack: 裂缝 | 霹雳可卡因 | 裂纹 
+448. Access Denied 
+    拒绝访问 
+    access denied: 拒绝访问 | 访问被拒绝 | 接入被禁止 
+449. concurrent [kən'kʌr(ə)nt] 
+    n. [数] 共点；同时发生的事件 
+    adj. 并发的；一致的；同时发生的 
+    Concurrent: 并发 | 同时的 | 并行 
+450. shots 
+    n. 射击；射手（shot的复数）；炮弹 
+    v. 射击；发出（shot的第三人称单数）；发芽 
+    Shots: 关键球 | 球路 | 射门 
+451. glacier ['glæsɪə; 'gleɪsɪə] 
+    n. 冰河，冰川 
+    glacier: 冰川 | 冰河 | 冰川网络 
+452. pregnant ['pregnənt] 
+    adj. 怀孕的；富有意义的 
+    pregnant: 怀孕的 | 重要的 | 孕妇 
+453. Priscilla [pri'silə] 
+    n. 普里西拉（女子名） 
+    Priscilla: 黄翠如 | 陈慧娴 | 古人 
+454. economists [i'kɑnəmɪst] 
+    n. 经济学者（economist的复数形式） 
+    Economists: 经济学人 | 经济学家 | 经济学界 
+455. economic [,iːkə'nɒmɪk; ek-] 
+    adj. 经济的，经济上的；经济学的 
+    Economic: 经济 | 经济学的 | 经济上的 
+456. scripting 
+    n. 脚本语言；脚本撰写；脚本处理 
+    v. 把…改编成剧本；撰稿；写电影脚本（script的ing形式） 
+    Scripting: 脚本 | 脚本撰写 | 脚本处理 
+457. multiline 
+    n. 多线；复线 
+    multiline: 多线路 | 多线比例 | 绘制多线 
+458. completion [kəm'pliːʃn] 
+    n. 完成，结束；实现 
+    Completion: 完备化 (环论) | 完成 | 完工 
+459. coloring ['kʌləriŋ] 
+    n. 着色；着色剂；配色；天然色；外貌 
+    v. 着色（color的ing形式）；出现颜色 
+    coloring: 着色 | 配色 | 上色 
+460. selective [sɪ'lektɪv] 
+    adj. 选择性的 
+    讲究的 
+    有选择地 
+    有选择性地 
+    仔细挑选地 
+    Selective: 选择性 | 精挑细选的 | 选择的 
+461. context-sensitive help 
+    上下文有关帮助 
+    Context-Sensitive Help: 本文相关辅助说明 | 上下文相关帮助 | 现场帮助 
+462. perform [pə'fɔːm] 
+    vt. 执行；完成；演奏 
+    vi. 执行，机器运转；表演 
+    perform: 执行 | 表演 | 履行 
+463. adjacent [ə'dʒeɪs(ə)nt] 
+    adj. 邻近的，毗连的 
+    Adjacent: 相邻 | 邻近的 | 接近的 
+464. integers 
+    n. [数] 整数（integer的复数） 
+    integers: 整数 | 整型 | 整数集 
+465. to represent 
+    代表 
+    to represent: 代表 | 表示 | 来表示 
+466. respectively [rɪ'spektɪvlɪ] 
+    adv. 分别地；各自地，独自地 
+    Respectively: 分别 | 各自地 | 各个地 
+467. suppose to 
+    认为是…… 
+    suppose to: 想做 | 认为是 
+468. algorithm ['ælgərɪð(ə)m] 
+    n. [计][数] 算法，运算法则 
+    Algorithm: 算法 | 算法 | 演算法 
+469. counting sort 
+    计数分类 
+    counting sort: 计数排序 | 计数排序 | 计数排序法 
+470. preface [ˈpref,ɪs] 
+    n. 前言；引语 
+    vt. 为…加序言；以…开始 
+    vi. 作序 
+    Preface: 前言 | 序言 | 序 
+471. scene [siːn] 
+    n. 场面；情景；景象；事件 
+    Scene: 场景 | 景色 | 现场 
+472. gained [geind] 
+    v. 获得，得到（gain的过去式）；增进 
+    gained: 得到 | 增进 | 获得 
+473. celebrity [sɪ'lebrɪtɪ] 
+    n. 名人；名声 
+    Celebrity: 名人 | 名流 | 名人录 (电影) 
+474. instant ['ɪnst(ə)nt] 
+    n. 瞬间；立即；片刻 
+    adj. 立即的；紧急的；紧迫的 
+    Instant: 转眼 | 瞬间 | 立即的 
+475. status ['steɪtəs] 
+    n. 地位；状态；情形；重要身份 
+    Status: 状态 | 地位 | 身份 
+476. universal [juːnɪ'vɜːs(ə)l] 
+    n. 一般概念；普通性 
+    adj. 普遍的；通用的；宇宙的；全世界的；全体的 
+    UNIVERSAL: 通用 | 环球 | 普遍的 
+477. information [ɪnfə'meɪʃ(ə)n] 
+    n. 信息，资料；知识；情报；通知 
+    Information: 信息 | 信息 | 问讯处 
+478. imaginable [ɪ'mædʒɪnəb(ə)l] 
+    adj. 可能的；可想像的 
+    imaginable: 可想像的 | 能想像得出的 | 可以想象的 
+479. unique [juː'niːk] 
+    n. 独一无二的人或物 
+    adj. 独特的，稀罕的；[数] 唯一的，独一无二的 
+    n. (Unique)人名；(英)尤妮克 
+    Unique: 唯一 | 独特 | 独一无二的 
+480. position [pə'zɪʃ(ə)n] 
+    n. 位置，方位；职位，工作；姿态；站位 
+    vt. 安置；把……放在适当位置 
+    Position: 位置 | 职位 | 定位 
+481. promise ['prɒmɪs] 
+    n. 许诺，允诺；希望 
+    vt. 允诺，许诺；给人以…的指望或希望 
+    vi. 许诺；有指望，有前途 
+    Promise: 承诺 | 答应 | 责任 
+482. extremely [ɪk'striːmlɪ; ek-] 
+    adv. 非常，极其；极端地 
+    Extremely: 极其 | 极了 | 极为 
+483. reassuring [,riːə'ʃʊərɪŋ] 
+    v. 使放心（reassure的ing形式） 
+    adj. 安心的；可靠的；鼓气的 
+    reassuring: 安心的 | 让人放心 | 安慰的 
+484. concurrency [kən'kʌrənsi] 
+    n. [计] 并发性；同时发生 
+    Concurrency: 并发性 | 并发 | 并行性 
+485. revisions 
+    n. 校订，[印刷] 修正；复习（revision的复数形式） 
+    Revisions: 修订版本 | 修订 | 储量修正 
+486. spans [spænz] 
+    n. [建] 跨度；一段时间（span的复数） 
+    v. 跨越；持续；贯穿（span的第三人称单数） 
+    Spans: 横亘 | 专业人士协会 | 司盘类 
+487. diverse [daɪ'vɜːs; 'daɪvɜːs] 
+    adj. 不同的；多种多样的；变化多的 
+    diverse: 不同的 | 多种多样的 | 变化多的 
+488. construction [kən'strʌkʃ(ə)n] 
+    n. 建设；建筑物；解释；造句 
+    construction: 建造 | 建筑 | 结构 
+489. internationalization ['ɪntə,næʃənəlaɪ'zeɪʃən] 
+    n. 国际化 
+    Internationalization: 国际化 | 国际化经营 | 国际视野 
+490. volume ['vɒljuːm] 
+    n. 量；体积；卷；音量；大量；册 
+    adj. 大量的 
+    vt. 把…收集成卷 
+    vi. 成团卷起 
+    volume: 体积 | 音量 | 容量 
+491. kit [kɪt] 
+    n. 工具箱；成套工具 
+    n. (Kit)人名；(俄)基特；(东南亚国家华语)吉；(英)基特，姬特(女名)(教名 Christopher、Katherine 的昵称) 
+    vt. 装备 
+    vi. 装备 
+    kit: 用具包 
+492. programmers 
+    n. 程序员（programmer的复数） 
+    Programmers: 程序员 | 程式设计师 | 程控板 
+493. assume [ə'sjuːm] 
+    vt. 僭取；篡夺；夺取；擅用；侵占 
+    vi. 假定；设想；承担；采取 
+    assume: 假定 | 承担 | 假设 
+494. toasters 
+    n. 烤箱；烤面包器 
+    Toasters: 烤面包器 | 吐司机 | 多士炉 
+495. illusion [ɪ'l(j)uːʒ(ə)n] 
+    n. 幻觉，错觉；错误的观念或信仰 
+    Illusion: 错觉 | 幻想 | 幻觉 
+496. demonstrating 
+    n. 演示 
+    v. 证明；示威（demonstrate的现在分词）；显示 
+    Demonstrating: 演示 | 展示 | 案例分析 
+497. discuss [dɪ'skʌs] 
+    vt. 讨论；论述，辩论 
+    Discuss: 讨论 | 商量 | 议论 
+498. corners 
+    n. 角落；窘境（corner的复数形式） 
+    v. 使…陷入绝境；垄断（corner的第三人称单数形式） 
+    Corners: 垄断 | 角球 | 转角 
+499. disposal [dɪ'spəʊz(ə)l] 
+    n. 处理；支配；清理；安排 
+    disposal: 处理 | 处置 | 废弃处置 
+500. treatment ['triːtm(ə)nt] 
+    n. 治疗，疗法；处理；对待 
+    Treatment: 治疗 | 处理 | 待遇 
+501. object-oriented 
+    adj. 面向对象的 
+    Object-Oriented: 面向对象 | 项目驱动 | 面向对象技术 
+502. proxies 
+    n. 代理；代理人（proxy的复数） 
+    Proxies: 代理 | 代管 | 代理服务器 
+503. handling ['hændlɪŋ] 
+    n. 处理 
+    v. 负责；对待（handle的ing形式）；触摸 
+    adj. 操作的 
+    HANDLING: 执手 | 处理 | 执手时间 
+504. breadcrumbs 
+    面包碎屑 
+    面包粉 
+    面包的松软部分（breadcrumb的名词复数） 
+    覆以面包屑，用面包屑裹上 
+    使沾上面包粉（breadcrumb的第三人称单数） 
+    Breadcrumbs: 面包屑型 | 面包屑导航 | 面包糠 
+505. explosive [ɪk'spləʊsɪv; ek-] 
+    n. 炸药；爆炸物 
+    adj. 爆炸的；爆炸性的；爆发性的 
+    Explosive: 爆炸品 | 炸药 | 爆炸性 
+506. abandon [ə'bænd(ə)n] 
+    n. 放任；狂热 
+    vt. 遗弃；放弃 
+507. errata [e'rɑːtə] 
+    n. 勘误表；正误表（erratum的复数） 
+    Errata: 勘误表 | 正误表 | 勘误 
+508. encourage [ɪn'kʌrɪdʒ; en-] 
+    vt. 鼓励，怂恿；激励；支持 
+    encourage: 鼓励 | 打气 | 激励 
+509. improvements 
+    n. 提高，改进（improvement的复数） 
+    improvements: 改进 | 改善 | 以下问题得到改进 
+510. appreciate [ə'priːʃɪeɪt; -sɪ-] 
+    vi. 增值；涨价 
+    vt. 欣赏；感激；领会；鉴别 
+    Appreciate: 欣赏 | 重视 | 感激 
+511. future ['fjuːtʃə] 
+    n. 未来；前途；期货；将来时 
+    adj. 将来的，未来的 
+    Future: 未来 | 将来 | 未来 
+512. editions 
+    [图情] 版本（ edition的名词复数 ） 
+    Editions: 特别版 | 意迪森 | 版本 
+513. clearer ['klɪərə] 
+    n. [助剂] 澄清剂；清洁器 
+    adj. 更清楚的 
+    clearer: 清除器 | 清洁器 | 更清楚的 
+514. informative [ɪn'fɔːmətɪv] 
+    adj. 教育性的，有益的；情报的；见闻广博的 
+    informative: 告知性的 | 信息量大的 | 多信息的 
