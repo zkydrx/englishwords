@@ -1731,3 +1731,186 @@
 514. informative [ɪn'fɔːmətɪv] 
     adj. 教育性的，有益的；情报的；见闻广博的 
     informative: 告知性的 | 信息量大的 | 多信息的 
+515. gibberish ['dʒɪb(ə)rɪʃ] 
+    n. 乱语；快速而不清楚的言语 
+516. garbled ['ɡɑrbld] 
+    adj. 篡改的；混乱的；引起误解的 
+    v. 断章取义（garble的过去式和过去分词） 
+    Garbled: 乱码 | 引起误解的 | 叠码 
+517. discarded 
+    v. 丢弃（discard的过去分词） 
+    adj. 丢弃的；废弃的 
+    discarded: 废弃的 | 丢弃 | 烧毁的 
+518. mod [mɒd] 
+    abbr. 国防部（Ministry of Defence） 
+    n. (Mod)人名；(瑞典、芬)莫德 
+    mod: 游戏模组 | 摩斯族 | 传统的 
+519. additional [ə'dɪʃ(ə)n(ə)l] 
+    adj. 附加的，额外的 
+    Additional: 附加 | 额外 | 外加 
+520. polishing material 
+    磨光材料 
+    polishing material: 抛光材料 | 磨料 | 抛光物质 
+521. processing material 
+    加工助剂 
+    Processing material: 原始卷料 | 加工材料 | 加工原料 
+522. underarm ['ʌndərɑːm] 
+    adj. 腋下的；低手的 
+    adv. 用低手 
+    underarm: 下袖长 | 腋下 | 手臂下的 
+523. odour ['əʊdə] 
+    n. 气味；声誉 
+    Odour: 气味 | 味道 | 香气 
+524. the harvest 
+    收获 
+    The Harvest: 外星收割者 | 收割 | 收获 
+525. edition [ɪ'dɪʃ(ə)n] 
+    n. 版本 
+    版次 
+    集 
+    edition: 版本 | 书籍版本 | 版 
+526. grams 
+    n. 克（gram的复数形式） 
+    n. (Grams)人名；(德、英)格拉姆斯 
+527. compute [kəm'pjuːt] 
+    n. 计算；估计；推断 
+    vi. 计算；估算；推断 
+    vt. 计算；估算；用计算机计算 
+    compute: 计算 | 估计 | 子句中的聚合 
+528. references ['refərənsɪz] 
+    n. [图情] 参考文献；参照；推荐信（reference的复数） 
+    v. 附…以供参考；把…引作参考（reference的三单形式） 
+    References: 参考文献 | 参考书目 | 引用本文的文章 
+529. express edition 
+    精简版；速成版；简易版；快捷版；学习版 
+    Express Edition: 精简版 | 速成版 | 简易版 
+530. review [rɪ'vjuː] 
+    vt. 回顾；检查；复审 
+    vi. 回顾；复习功课；写评论 
+    n. 回顾；复习；评论；检讨；检阅 
+    Review: 复习 | 回顾 | 评论 
+531. trace [treɪs] 
+    vi. 追溯；沿路走; 
+    vt. 追踪，查探；描绘；回溯; 
+    n. 痕迹，踪迹；微量；[仪] 迹线；缰绳 
+532. Crysis 
+    n. 孤岛危机（游戏名） 
+    Crysis: 孤岛危机 | 孤岛危机系列 | 孤岛危机 
+533. overlord ['əʊvəlɔːd] 
+    n. 霸王；大君主；最高统治者；封建领主 
+    Overlord: 霸王 | 太上皇 | 王虫 
+534. continued [kən'tɪnjuːd] 
+    adj. 继续的；持久的 
+    v. 继续；逗留；维持原状（continue的过去分词） 
+    continued: 接上页 | 重复 | 继续的 
+535. collation [kə'leɪʃ(ə)n] 
+    n. 校对；斋日的点心；牧师职务 
+    collation: 排序规则 | 搜集某书的不同版本 | 整理 
+536. preinstalled 
+    预先安装 
+    Preinstalled: 默认自带的图片 | 默认自带的视频在这里 
+537. associated [ə'soʃɪetɪd] 
+    adj. 关联的；联合的 
+    v. 联系（associate的过去式和过去分词） 
+    associated: 相关的 | 相应的 | 关联的 
+538. evolving 
+    v. 进化；展开（evolve的ing形式） 
+    adj. 进化的；展开的 
+    evolving: 进化的 | 演变 | 展开的 
+539. ultimately ['ʌltɪmətlɪ] 
+    adv. 最后；根本；基本上 
+    ultimately: 最后 | 最终 | 终于 
+540. test code 
+    试验码；试验规程 
+    test code: 试验规程 | 试验码 | 测试代码 
+541. as expected 
+    不出所料；正如预期的 
+    As expected: 不出所料 | 正如预期的 | 果然不出所料 
+542. incompatibility ['ɪnkəm,pætə'bɪlətɪ] 
+    n. 不相容；不协调；不一致 
+    incompatibility: 不相容性 | 不亲和性 | 不相容 
+543. exceptions [ik'sepʃənz] 
+    n. 免责条款（exception的复数形式） 
+    Exceptions: 异常 | 例外 | 异常处理 
+544. be considered 
+    被认为是… 
+    be considered: 被认为是 | 被当成 | 来考虑 
+545. dependencies [di'pendənsiz] 
+    n. 依赖性，相关性；管理 
+    Dependencies: 依赖关系 | 依赖 | 相关性 
+546. discern [dɪ'sɜːn] 
+    vt. 识别；领悟，认识 
+    vi. 看清楚，辨别 
+    discern: 看出 | 辨别 | 识别 
+547. duplicate [ˈdjuːplɪkeɪt] 
+    n. 副本；复制品 
+    adj. 复制的；二重的 
+    vt. 复制；使加倍 
+    vi. 复制；重复 
+    Duplicate: 复制 | 副本 | 重复 
+548. recognizes 
+    认出 
+    表彰 
+    承认 
+    赞成 
+    recognizes: 重认 | 辨识 
+549. assumes 
+    假定 
+    假设 
+    assumes: 假定 | 假设 | 认为 
+550. compatible [kəm'pætɪb(ə)l] 
+    adj. 兼容的；能共处的；可并立的 
+    compatible: 兼容的 | 兼容模式 | 能共存 
+551. be due 
+    到期 
+    be due: 到期的 | 应交出的 | 应抵达的 
+552. you folks 
+    大伙；各位 
+    you folks: 各位 
+553. blow [bləʊ] 
+    vi. 风吹；喘气 
+    vt. 风吹 
+    n. 吹；打击；殴打 
+    n. (Blow)人名；(英)布洛 
+    Blow: 打击 | 骇到爆炸 | 吹 
+554. gallery ['gæl(ə)rɪ] 
+    n. 画廊；走廊；旁听席；地道 
+    vt. 在…修建走廊；在…挖地道 
+    vi. 挖地道 
+    n. (Gallery)人名；(英)加勒里 
+    gallery: 美术馆 | 画廊 | 长廊 
+555. community [kəˈmju:nətɪ] 
+    n. 社区；[生态] 群落；共同体；团体 
+    Community: 社区 | 社会 | 废柴联盟 
+556. majority [mə'dʒɒrɪtɪ] 
+    n. 多数；成年 
+    majority: 多数 | 大多数 | 大比 
+557. apparent [ə'pær(ə)nt] 
+    adj. 显然的；表面上的 
+    apparent: 明显的 | 显然的 | 外观上的 
+558. symptoms 
+    n. [临床] 症状；症候；病徵 
+    symptoms: 症状 | 病症 | 症候 
+559. depression [dɪ'preʃ(ə)n] 
+    n. 沮丧；洼地；不景气；忧愁；低气压区 
+    Depression: 沮丧 | 抑郁症 | 不景气 
+560. era ['ɪərə] 
+    n. 时代；年代；纪元 
+    n. (Era)人名；(意、芬、印)埃拉 
+    Era: ERA | Era | 时代 
+561. processors [prɔ:'sesəz] 
+    n. [计] 处理器，[计] 处理机（processor复数） 
+    Processors: 处理器 | 处理机 | 制造者 
+562. appendix [ə'pendɪks] 
+    n. 附录；阑尾；附加物 
+    Appendix: 附录 | 附件 | 阑尾 
+563. reserved [rɪ'zɜːvd] 
+    adj. 保留的，预订的；缄默的，冷淡的，高冷的；包租的 
+    Reserved: 保留 | 预留 | 留作 
+564. conventions 
+    n. [法] 惯例；会议；[计] 约定（convention的复数） 
+    conventions: 常规 | 集会 | 约定 
+565. caution ['kɔːʃ(ə)n] 
+    n. 小心，谨慎；警告，警示 
+    vt. 警告 
+    caution: 小心 | 警告 | 注意 
