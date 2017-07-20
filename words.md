@@ -1914,3 +1914,204 @@
     n. 小心，谨慎；警告，警示 
     vt. 警告 
     caution: 小心 | 警告 | 注意 
+566. expiration date 
+    [贸易] 截止日期 
+    expiration date: 有效期限 | 到期日 | 有效期 
+567. experience [ɪkˈspɪərɪəns] 
+    n. 经验；经历；体验 
+    vt. 经验；经历；体验 
+    Experience: 经验 | 经历 | 体验 
+568. section ['sekʃ(ə)n] 
+    n. 截面；部分；部门；地区；章节 
+    vt. 把…分段；将…切片；对…进行划分 
+    vi. 被切割成片；被分成部分 
+    section: 截面 | 节 | 部分 
+569. informal [ɪn'fɔːm(ə)l] 
+    adj. 非正式的；不拘礼节的；随便的；通俗的；日常使用的 
+    informal: 非正式的 | 非正式文体 | 代理 
+570. companion [kəm'pænjən] 
+    n. 同伴；朋友；指南；手册 
+    vt. 陪伴 
+    n. (Companion)人名；(英)康帕宁 
+    companion: 同伴 | 伴侣 | 伴侣 
+571. presented [prɪˈzentid] 
+    v. 提出（present的过去分词）；呈递，提供 
+    Presented: 赠送 | 敬献 | 颁赠 
+572. instance ['ɪnst(ə)ns] 
+    n. 实例；情况；建议 
+    vt. 举...为例 
+    Instance: 实例 | 例子 | 比方 
+573. expand [ɪk'spænd; ek-] 
+    vt. 扩张；使膨胀；详述 
+    vi. 发展；张开，展开 
+    Expand: 扩大 | 膨胀 | 扩张 
+574. either ['aɪðə; 'iː-] 
+    conj. 也（用于否定句或否定词组后）；根本 
+    prep. 任何一个 
+    adj. 两者之中任一的；两者之中每一的 
+    pron. 任一，两方，随便哪一个；两者中的一个或另一个 
+    Either: 任一 | 要不是 | 也 
+575. familiar [fə'mɪlɪə] 
+    n. 常客；密友 
+    adj. 熟悉的；常见的；亲近的 
+    n. (Familiar)人名；(西)法米利亚尔 
+    Familiar: 熟悉 | 耳熟能详 | 相熟 
+576. unzip [ʌn'zɪp] 
+    vi. 拉开拉链；释放 
+    vt. 拉开 
+577. chapter ['tʃæptə] 
+    n. 章，回；（俱乐部、协会等的）分会；人生或历史上的重要时期 
+    vt. 把…分成章节 
+    chapter: 章 | 章节 | 一章 
+578. compressed [kəm'prest] 
+    adj. 被压缩的；扁平的 
+    compressed: 扁平的 | 压缩的 | 被压缩的 
+579. dedicated ['dedɪkeɪtɪd] 
+    adj. 专用的；专注的；献身的 
+    v. 以…奉献；把…用于（dedicate的过去式和过去分词） 
+    dedicated: 有奉献精神的 | 专用 | 敬业 
+580. introduction [,ɪntrə'dʌkʃ(ə)n] 
+    n. 介绍；引进；采用；入门；传入 
+    introduction: 简介 | 介绍 | 前言 
+581. misconceptions 
+    n. 迷思概念；错误的想法 
+    misconceptions: 错误的想法 | 误会重重 | 迷思概念 
+582. incredible [ɪn'kredɪb(ə)l] 
+    adj. 难以置信的，惊人的 
+    Incredible: 难以置信 | 不可思议 | 不可信 
+583. excitement [ɪk'saɪtmənt] 
+    n. 兴奋；刺激；令人兴奋的事物 
+    Excitement: 兴奋 | 激动 | 刺激 
+584. media ['miːdɪə] 
+    n. 媒体；媒质（medium的复数）；血管中层；浊塞音；中脉 
+    Media: 媒体 | 传媒 | 新闻传媒 
+585. mainstream ['meɪnstriːm] 
+    n. 主流 
+    mainstream: 主流 | 非主流 | 主要倾向 
+586. distinction [dɪ'stɪŋ(k)ʃ(ə)n] 
+    n. 区别；差别；特性；荣誉、勋章 
+    distinction: 区别 | 品味区隔 | 差别 
+587. venture ['ventʃə] 
+    n. 企业；风险；冒险 
+    vt. 敢于 
+    vi. 冒险；投机 
+    n. (Venture)人名；(法)旺蒂尔 
+    venture: 冒险 | 投机 | 万程 
+588. capital ['kæpɪt(ə)l] 
+    n. 首都，省会；资金；大写字母；资本家 
+    adj. 首都的；重要的；大写的 
+    n. (Capital)人名；(法)卡皮塔尔 
+    capital: 首都 | 资本 | 资金 
+589. solely ['səʊllɪ] 
+    adv. 单独地，唯一地 
+    Solely: 单独地 | 独自地 | 唯一地 
+590. brief [briːf] 
+    n. 摘要，简报；概要，诉书 
+    adj. 简短的，简洁的；短暂的，草率的 
+    vt. 简报，摘要；作…的提要 
+    n. (Brief)人名；(英)布里夫 
+    brief: 简短的 | 摘要 | 简洁的 
+591. coauthor [kəʊ'ɔːθə] 
+    n. 共同执笔者，合著者 
+    vt. 合著 
+    coauthor: 合着者 | 书的合着者之一 | 合作作者 
+592. hype [haɪp] 
+    n. 大肆宣传；皮下注射 
+    vt. 大肆宣传；使…兴奋 
+    hype: 天花乱坠的广告宣传 | 大肆宣传 | 天花乱坠 
+593. doubt [daʊt] 
+    n. 怀疑；疑问；疑惑 
+    v. 怀疑；不信；恐怕；拿不准 
+    Doubt: 怀疑 | 圣诉 | 疑惑 
+594. serious ['sɪərɪəs] 
+    adj. 严肃的，严重的；认真的；庄重的；危急的 
+    Serious: 严重 | 严肃 | 认真 
+595. potentially [pə'tɛnʃəli] 
+    adv. 可能地，潜在地 
+    potentially: 潜在地 | 潜在的 | 可能地 
+596. reality [rɪ'ælɪtɪ] 
+    n. 现实；实际；真实 
+    Reality: 现实 | 真实 | 现实 
+597. compatibility [kəm,pætɪ'bɪlɪtɪ] 
+    n. [计] 兼容性 
+    Compatibility: 兼容性 | 相容性 | 配合度 
+598. paragraph ['pærəgrɑːf] 
+    n. 段落；短评；段落符号 
+    vt. 将…分段 
+    Paragraph: 段落 | 段落 | 段 
+599. microsystems 
+    n. [计] 微系统；微型系统（microsystem的复数形式） 
+    MicroSystems: 微系统 | 微观系统 | 欧洲把微系统 
+600. originally [ə'rɪdʒɪn(ə)lɪ] 
+    adv. 最初，起初；本来 
+    Originally: 本来 | 当初 | 最初的 
+601. warts 
+    [皮肤] 疣 
+    [皮肤] 肉赘 
+    warts: 疣 | 肉赘 | 疣目 
+602. share [ʃeə] 
+    n. 份额；股份 
+    vt. 分享，分担；分配 
+    vi. 共享；分担 
+    n. (Share)人名；(阿拉伯)沙雷 
+    Share: 分享 | 共享 | 股份 
+603. detail ['diːteɪl] 
+    n. 细节，详情 
+    vt. 详述；选派 
+    vi. 画详图 
+    Detail: 细节 | 详情 | 详细 
+604. elegant ['elɪg(ə)nt] 
+    adj. 高雅的，优雅的；讲究的；简炼的；简洁的 
+    Elegant: 优雅 | 高雅的 | 文雅的 
+605. splash [splæʃ] 
+    n. 飞溅的水；污点；卖弄 
+    vt. 溅，泼；用...使液体飞溅 
+    vi. 溅湿；溅开 
+    Splash: 名人跳水 (美国真人秀) | 飞溅 | 派喜 
+606. reusable [ri:'ju:zəbl] 
+    adj. 可以再度使用的，可重复使用的 
+    reusable: 可再用的 | 可重用 | 重复使用 
+607. execution [,eksɪ'kjuːʃ(ə)n] 
+    n. 执行，实行；完成；死刑 
+    Execution: 执行 | 处决 (油画) | 执行力 
+608. security [sɪ'kjʊərətɪ] 
+    n. 安全；保证；证券；抵押品 
+    adj. 安全的；保安的；保密的 
+    Security: 安全 | 证券 | 安全性 
+609. semantics [sɪ'mæntɪks] 
+    n. [语] 语义学；语义论 
+    semantics: 语义学 | 形式语义学 | 语义学 
+610. bill [bɪl] 
+    n. [法] 法案；广告；账单；[金融] 票据；钞票；清单 
+    vt. 宣布；开账单；用海报宣传 
+    Bill: 比尔 | 钞票 | 账单 
+611. comprehensible [kɒmprɪ'hensɪb(ə)l] 
+    adj. 可理解的 
+    comprehensible: 可理解的 | 可以理解的 | 能懂的 
+612. irresistible [ɪrɪ'zɪstɪb(ə)l] 
+    adj. 不可抵抗的；不能压制的；极为诱人的 
+    irresistible: 不可挽回的 | 不可抗拒的 | 无法抵制的 
+613. proposition [prɒpə'zɪʃ(ə)n] 
+    n. [数] 命题；提议；主题；议题 
+    vt. 向…提议；向…求欢 
+    proposition: 命题 | 命题 | 主张 
+614. composition [ˌkɒmpəˈzɪʃn] 
+    n. 作文，作曲，作品；[材] 构成；合成物；成分 
+615. aggregation [,æɡrɪ'ɡeɪʃən] 
+    n. [地质][数] 聚合，聚集；聚集体，集合体 
+616. maintained [meɪn'teɪnd] 
+    v. 维护，维修；维持（maintain的过去分词） 
+    adj. 被保持的 
+    maintained: 被保持的 | 保持 | 维护 
+617. primary ['praɪm(ə)rɪ] 
+    adj. 主要的；初级的；基本的 
+    n. 原色；最主要者 
+    Primary: 主星 (天文学) | 首要 | 主要的 
+618. revoke [rɪ'vəʊk] 
+    n. 有牌不跟 
+    vt. 撤回，取消；废除 
+    vi. 有牌不跟 
+    revoke: 撤销 | 取消 | 废除 
+619. uptime ['ʌptaɪm] 
+    n. （计算机等的）正常运行时间 
+    Uptime: 上线时间 | 显示目前系统开机时间 | 显示系统运行时间 
