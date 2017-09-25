@@ -2115,3 +2115,837 @@
 619. uptime ['ʌptaɪm] 
     n. （计算机等的）正常运行时间 
     Uptime: 上线时间 | 显示目前系统开机时间 | 显示系统运行时间 
+620. invoice ['ɪnvɒɪs] 
+    n. 账单，发货单，收款请求 
+    vt. 开发票；记清单 
+    INVOICE: 发票 | 发票 | 商业发票 
+621. tax [tæks] 
+    n. 税金；重负 
+    n. (Tax)人名；(英、匈、捷)塔克斯 
+    vt. 向…课税；使负重担 
+    tax: 税 | 税收 | 税款 
+622. VAT [væt] 
+    abbr. 增值税（Value Added Tax） 
+    VAT: 增值税(Value Added Tax) | 加值税 | 付加価値税 
+623. charges 
+    n. [会计] 费用；手续费；运费 
+    v. 指控；[电] 充电；命令；要价（charge的三单形式） 
+    charges: 费用 | 罪名 | 手续费 
+624. developer [dɪ'veləpə(r)] 
+    n. 开发者；[摄] 显影剂 
+    Developer: 开发者 | 显影剂 | 开发人员 
+625. support [sə'pɔːt] 
+    n. 支持，维持；支援，供养；支持者，支撑物 
+    vt. 支持，支撑，支援；扶持，帮助；赡养，供养 
+    Support: 支持 | 支撑 | 支架 
+626. billing ['bɪlɪŋ] 
+    n. 广告；记帐；开发票；演员表；总账款 
+    n. (Billing)人名；(英、德、芬、瑞典、匈)比林 
+    v. 开帐单（bill的ing形式） 
+    Billing: 即开票 | 开单 | 帐单 
+627. attachment [ə'tætʃm(ə)nt] 
+    n. 附件；依恋；连接物；扣押财产 
+    Attachment: 附件 | 附着 | 连接物 
+628. engineer [endʒɪ'nɪə] 
+    n. 工程师；工兵；火车司机 
+    vt. 设计；策划；精明地处理 
+    vi. 设计；建造 
+    Engineer: 工程师 | 工程师 | 技师 
+629. python ['paiθən, -θɔn] 
+    n. 巨蟒；大蟒；丹舌 
+    n. (Python)人名；(法)皮东 
+    python: 蟒蛇 | Python | 蟒属 
+630. commands [kə'mændz] 
+    n. [计] 命令，[计] 指令（command复数形式） 
+    Commands: 命令 | 指令 | 面板 
+631. fingerprints 
+    n. [法][特医] 指纹（fingerprint的复数） 
+    v. 取…的指印（fingerprint的三单形式） 
+    Fingerprints: 指纹 | 指纹图谱 | 指印 
+632. eject [ɪ'dʒekt] 
+    vt. 喷射；驱逐，逐出 
+    Eject: 喷出 | 喷射 | 弹出 
+633. provisioning [prə'viʒəniŋ] 
+    n. 准备金提取 
+    v. 供应补给品（provision的ing形式） 
+    provisioning: 服务开通 | 撇帐 | 提取准备金 
+634. launch [lɔːntʃ] 
+    n. 发射；发行，投放市场；下水；汽艇 
+    vt. 发射（导弹、火箭等）；发起，发动；使…下水 
+    vi. 开始；下水；起飞 
+    launch: 发动 | 发射 | 开办 
+635. inactive [ɪn'æktɪv] 
+    adj. 不活跃的；不活动的；怠惰的；闲置的 
+    inactive: 不活动 | 暂停 | 非活动的 
+636. redefine [riːdɪ'faɪn] 
+    vt. 重新定义 
+637. conflicts ['kɒnflɪkts] 
+    n. 冲突；矛盾（conflict的复数形式）；斗争 
+    v. 抵触；战斗；有分歧（conflict的第三人称单数形式） 
+    conflicts: 冲突 | 斗争 | 战斗 
+638. constraint [kən'streɪnt] 
+    n. [数] 约束；局促，态度不自然；强制 
+    Constraint: 约束 | 约束 (数学) | 限制 
+639. reboot [riː'buːt] 
+    vt. 重新启动；再发动; 
+    n. 重新启动 
+640. dependent [di'pendənt] 
+    adj. 依靠的；从属的；取决于…的 
+    n. 依赖他人者；受赡养者 
+    Dependent: 家属 | 相依 | 依靠的 
+641. previously ['priviəsli] 
+    adv. 以前；预先；仓促地 
+    Previously: 先前 | 在以前 | 以前 
+642. hypothetical [,haɪpə'θetɪk(ə)l] 
+    adj. 假设的；爱猜想的 
+    Hypothetical: 假想 | 假设的 | 假定的 
+643. pointlessly ['pɔintlisli] 
+    adv. 不相干地；漫无目标地；不得要领地（pointless的副词形式） 
+    pointlessly: 无意义 
+644. paranoid ['pærənɒɪd] 
+    adj. 类似妄想狂的；属于偏执狂的 
+    n. 患妄想狂的人；偏执狂患者 
+    Paranoid: 偏执 | 偏执狂 | 禁室迷情夜 
+645. clue [kluː] 
+    n. 线索；（故事等的）情节 
+    vt. 为…提供线索；为…提供情况 
+    Clue: 线索 | 提示 | 迹象 
+646. generous ['dʒen(ə)rəs] 
+    adj. 慷慨的，大方的；宽宏大量的；有雅量的 
+    generous: 慷慨的 | 宽宏大量的 | 大方 
+647. encountered [in'kauntəd] 
+    v. 遇到；曾遭遇（encounter的过去式） 
+    encountered: 遇到 | 曾遭遇 | 遇到了 
+648. oxygen ['ɒksɪdʒ(ə)n] 
+    n. [化学] 氧气，[化学] 氧 
+    Oxygen: 氧气 | 氧 | Oxygen Project 
+649. perceived [pə'siːvd] 
+    v. 感知；认为（perceive的过去分词）；领会 
+    adj. 感知到的；感观的 
+    perceived: 圣明 | 感知 | 能感知到的 
+650. retrieving 
+    v. （美）（计算机的）[计] 检索（retrieve的ing形式）；恢复；取回；补偿 
+    Retrieving: 检索 | 取回 | 检索方法 
+651. appearance [ə'pɪər(ə)ns] 
+    n. 外貌，外观；出现，露面 
+    appearance: 外观 | 出现 | 外表 
+652. component [kəm'pəʊnənt] 
+    adj. 组成的，构成的; 
+    n. 成分；组件；[电子] 元件 
+653. various ['veərɪəs] 
+    adj. 各种各样的；多方面的 
+    various: 各种各样的 | 不同的 | 各家 
+654. questions ['kwestʃənz] 
+    n. 问题（question的复数） 
+    v. 质疑（question的第三人称单数形式） 
+655. flexible ['fleksɪb(ə)l] 
+    adj. 灵活的；柔韧的；易弯曲的 
+    Flexible: 灵活 | 有弹性的 | 多变的 
+656. loosely coupled 
+    松耦合 
+    loosely coupled: 松散耦合 | 松弛耦合 | 松散结合 
+657. separating ['sepəreitiŋ] 
+    v. 分离；分隔；断绝关系（separate的ing形式） 
+    adj. 分离的；分隔的 
+    Separating: 拆开 | 分离 | 分隔 
+658. aspects ['æspekts] 
+    n. 方面；相位；面貌（aspect的复数） 
+    Aspects: 相位 | 方面 | 守护神 
+659. providing [prə'vaɪdɪŋ] 
+    v. 供给（provide的ing形式）；预备 
+    conj. 假如，以…为条件 
+    providing: 引导现在分词做状语 | 倘若 | 假如 
+660. loose coupling 
+    疏耦合 
+    loose coupling: 松散耦合 | 松耦合 | 弱耦合 
+661. in general 
+    总之，通常；一般而言 
+    in general: 通常 | 一般来说 | 一般说来 
+662. consist of 
+    由…组成；由…构成；包括 
+    consist of: 由 | 组成 | 包括 
+663. be responsible for 
+    对……负责；是……的原因 
+    Be responsible for: 负责 | 对 | 承担责任 
+664. generates 
+    [计] 生成 
+    发生 
+    generates: 生成 | 产生 | 引起 
+665. interpret [ɪn'tɜːprɪt] 
+    vt. 说明；口译 
+    vi. 解释；翻译 
+666. processing [prəˈsesɪŋ] 
+    v. 加工；[自] 处理；对…起诉（process的ing形式） 
+    processing: 加工 | Processing | Processing 
+667. appropriate [əˈprəʊprɪət;(for v,)əˈprəʊprɪeɪt] 
+    adj. 适当的；恰当的；合适的 
+    vt. 占用，拨出 
+    Appropriate: 适当 | 合适 | 恰当 
+668. illustrated ['ɪləstreɪtɪd] 
+    v. 阐明；举例说明；给…加插图（illustrate的过去分词） 
+    adj. 有插图的 
+    n. 有插画的报章杂志 
+    Illustrated: 图文并茂 | 有插图的 | 插画 
+669. required [rɪ'kwaɪəd] 
+    adj. 必需的；（美）必修的 
+    v. 需要（require的过去式及过去分词形式）；要求 
+    required: 必需的 | 必读 | 要求的 
+670. unique constraint 
+    唯一约束 
+    unique constraint: 唯一约束 | 唯一性约束 | 唯一的条件约束 
+671. interceptor [ɪntə'septə] 
+    n. [航][军] 拦截机；妨碍者 
+    Interceptor: 拦截器 | 拦截机 | 自定义动画渲染器 
+672. locale [ləʊ'kɑːl] 
+    n. 场所，现场 
+    Locale: 区域设置 | 区域设置 | 局部 
+673. arguments ['ɑːgjʊm(ə)nts] 
+    n. 参数 
+    Arguments: 命令行参数 | 参数 | 争论 
+674. tunnel ['tʌnl] 
+    vi. 挖掘隧道；打开通道 
+    vt. 挖；在…打开通道；在…挖掘隧道 
+    n. 隧道；坑道；洞穴通道 
+    tunnel: 隧道 | 安全加密链路 | 地道 
+675. parse [pɑːz] 
+    n. 从语法上分析；分列 
+    vt. 解析；从语法上分析 
+    vi. 理解；从语法上分析 
+    parse: 解析 | 分析 | 语法分析 
+676. ecover 
+    伊卡瓦 
+677. science ['saɪəns] 
+    n. 科学；技术；学科；理科; 
+    n. (Science)人名；(英)赛恩斯 
+678. spreadsheet ['spredʃiːt] 
+    n. 电子制表软件；电子数据表；试算表 
+    spreadsheet: 电子试算表 | 电子表格 | 电子数据表 
+679. senior ['siːnɪə; 'siːnjə] 
+    n. 上司；较年长者；毕业班学生 
+    n. (Senior)人名；(英)西尼尔 
+    adj. 高级的；年长的；地位较高的；年资较深的，资格较老的 
+    senior: 大学四年级学生 | 大四 | 高中三年级学生 
+680. alphanumeric [,ælfənjuː'merɪk] 
+    adj. [计] 字母数字的 
+681. resolve [rɪ'zɒlv] 
+    n. 坚决；决定要做的事 
+    vt. 决定；溶解；使…分解；决心要做… 
+    vi. 解决；决心；分解 
+    Resolve: 决心 | 决定 | 解决 
+682. variable ['veərɪəb(ə)l] 
+    n. [数] 变量；可变物，可变因素 
+    adj. 变量的；可变的；易变的，多变的；变异的，[生物] 畸变的 
+    variable: 变数 | 变量 (程序设计) | 变数 
+683. predefined [,pridɪ'faɪnd] 
+    adj. [计] 预先定义的 
+    v. 预先确定（predefine的过去式） 
+    predefined: 预定义的 | 事先定义 | 预先确定 
+684. constants ['kɔnstənts] 
+    n. [数] 常量，[数] 常数；物理常数（constant的复数） 
+    Constants: 常量 | 是不会改变的元素 | 小数常数 
+685. uppercase letter 
+    上段字符 
+    uppercase letter: 上段字符 | 大写字母 | 大写字母 
+686. unmodified [ʌn'mɒdɪfaɪd] 
+    adj. 未更改的，未变的 
+    unmodified: 未改性的 | 未变性的 | 未修改 
+687. subscriptions 
+    n. 订阅（subscription的复数形式）；捐献 
+    Subscriptions: 订阅 | 捐献 | 服务 
+688. improve the performance 
+    改善性能 
+    Improve The Performance: 改善性能 | 性能的提高 | 提高膜的性能 
+689. duplicate entry 
+    重复录入 
+    duplicate entry: 采用二次录入法 | 重复的条目 | 重复条目 
+690. assembly [ə'semblɪ] 
+    n. 装配；集会，集合 
+    Assembly: 集结号 | 装配 | 组装 
+691. artifacts ['a:rtifækts] 
+    n. 史前古器物；人工产品 
+    Artifacts: 上古神器 | 史前古器物 | 人工产品 
+692. archives ['a:kaivz] 
+    n. 档案，档案室；案卷（archive的复数） 
+    v. 把…收集归档；把…存档（archive的三单形式） 
+    Archives: 档案 | 文章归档 | 档案馆 
+693. pane [peɪn] 
+    n. 窗格；边；面；窗格玻璃；嵌板 
+    vt. 装窗玻璃于；镶嵌板于 
+    n. (Pane)人名；(老)班；(英)潘恩；(德、西、意、塞、印尼)帕内 
+    pane: 窗格 | 窗格玻璃 | 窗玻璃 
+694. inspection [ɪn'spekʃn] 
+    n. 视察，检查 
+695. identifier [aɪ'dentɪfaɪə] 
+    n. 标识符，认同者；检验人，鉴定人 
+    Identifier: 标识符 | 标识符 | 识别字 
+696. conflict ['kɒnflɪkt] 
+    n. 冲突，矛盾；斗争；争执 
+    vi. 冲突，抵触；争执；战斗 
+697. authorize ['ɔθəraɪz] 
+    vt. 批准，认可；授权给；委托代替 
+698. rejected 
+    v. 拒绝，驳回（reject的过去分词形式） 
+    adj. 被拒的；不合格的 
+699. cached [kæʃt] 
+    v. 贮藏起来；隐藏起来（cache 的过去分词形式）; 
+    adj. 高速缓冲存储器存储的 
+700. buffers ['bʌfəz] 
+    n. DOS命令 
+    buffers: 缓冲池统计 | 调整系统缓冲池参数 | 缓冲区 
+701. Portable ['pɔrtəbl] 
+    adj. 便携的；[计] 可移植的 
+    Portable: 便携式 | 轻便的 | 可携带的 
+702. critical service 
+    关键服务 
+    Critical Service: 关键服务 | 关键服务 | 关键性服务 
+703. superblock ['sjuːpəblɒk] 
+    n. （美）车辆禁行区（指都市内禁止车辆通行的住宅或商业区） 
+    SuperBlock: 超级块 | 超级数据块 | 车辆禁行区 
+704. partition [pɑː'tɪʃ(ə)n] 
+    n. 划分，分开；[数] 分割；隔墙；隔离物 
+    vt. [数] 分割；分隔；区分 
+    Partition: 分割 | 分区 | 整数分拆 
+705. java runtime environment 
+    Java运行环境 
+706. pre-defined 
+    adj. 预定义的 
+    pre-defined: 预定义 | 定义的 | 预先定义的 
+707. artifact ['ɑ:təˌfækt] 
+    n. 人工制品；手工艺品 
+    artifact: 遗物 | 手工艺品 | 人工制品 
+708. be present in 
+    存在于；任现职 
+    be present in: 存在于 | 正在翻译 | 在……之内 
+709. therefore ['ðeəfɔː] 
+    adv. 因此；所以 
+    Therefore: 因此 | 所以 | 因而 
+710. layout ['leɪaʊt] 
+    n. 布局；设计；安排；陈列 
+    LAYOUT: 布局 | 排唛 | 设计 
+711. deployed 
+    v. 部署（deploy的过去式）；展开 
+    Deployed: 加派 | 展开 | 部署 
+712. customization ['kʌstəmaɪzeɪʃən] 
+    n. 定制；[计] 用户化；客制化服务 
+    Customization: 客制化 | 定制 | 客户化 
+713. specifying ['spesifaiiŋ] 
+    n. 说明 
+    v. 指定；具体说明（specify的ing形式） 
+    specifying: 说明 | 指定 | 规格化 
+714. workflow ['wə:k,fləu] 
+    n. 工作流，工作流程 
+    Workflow: 工作流 | 工作流程 | 工作流技术 
+715. reflects [rɪ'flekts] 
+    反照 
+    反射 
+    REFLECTS: 反应 | 折射出 | 德国精品味 
+716. flexibly ['fleksəbli] 
+    adv. 灵活地；易曲地；柔软地；有弹性地 
+    flexibly: 有弹性地 | 易曲地 | 柔软地 
+717. preferences ['pref(ə)r(ə)nsɪz] 
+    n. 参数选择（preference的复数）；选择权 
+    Preferences: 预设 | 参数选择 | 首选项 
+718. requirements [rɪ'kwaɪɚmənts] 
+    n. 要求（requirement的复数）；调整需要量，必需品 
+    Requirements: 要求 | 需求 | 职位要求 
+719. specific [spə'sɪfɪk] 
+    adj. 特殊的，特定的；明确的；详细的；[药] 具有特效的 
+    n. 特性；细节；特效药 
+    Specific: 具体 | 特定 | 明确的 
+720. drop-down list 
+    下拉式列表 
+    Drop-down list: 下拉式选单 | 下拉式选单 | 下拉菜单 
+721. exploded [ɪk'spləʊdɪd] 
+    adj. 爆炸了的；分解的；被破除的 
+    v. 爆炸（explode的过去分词） 
+    exploded: 爆破了的 | 爆炸 | 爆炸了的 
+722. directory [dɪ'rekt(ə)rɪ; daɪ-] 
+    adj. 指导的；咨询的 
+    n. [计] 目录；工商名录；姓名地址录 
+    Directory: 目录 | 目录 | 名录 
+723. packed [pækt] 
+    adj. （常用来构成复合词）充满…的，塞满了…的 
+    v. [包装] 包装（pack的过去分词） 
+    Packed: 挤满 | 塞满的 | 有密封的 
+724. general ['dʒen(ə)r(ə)l] 
+    adj. 一般的，普通的；综合的；大体的 
+    n. 一般；将军，上将；常规 
+    n. (General)人名；(英)杰纳勒尔 
+    General: 一般 | 综述 | 上将 
+725. specify ['spesɪfaɪ] 
+    vt. 指定；详细说明；列举；把…列入说明书 
+    specify: 指定 | 详细说明 | 规定 
+726. dialog ['daɪəlɒɡ] 
+    n. 对话；会话 
+    Dialog: 对话框 | 对话 | 对白 
+727. degrade performance 
+    降低性能 
+    degrade performance: 降低性能 | 下降机能 | 降低机能 
+728. distribution [dɪstrɪ'bjuːʃ(ə)n] 
+    n. 分布；分配 
+    distribution: 分销 | 分配 | 配送 
+729. to guarantee 
+    保证；保障 
+    to guarantee: 保证 | 保障 | 确保 
+730. extract [ˈekstrækt] 
+    vt. 提取；取出；摘录；榨取; 
+    n. 汁；摘录；榨出物；选粹 
+731. identify [aɪ'dentɪfaɪ] 
+    vt. 确定；鉴定；识别，辨认出；使参与；把…看成一样 vi. 确定；认同；一致 
+    identify: 认出 | 鉴定 | 身份 
+732. Not identify 
+    Not identify: 未鉴定 
+733. approve [ə'pruːv] 
+    vt. 批准；赞成；为…提供证据 
+    vi. 批准；赞成；满意 
+    Approve: 批准 | 赞成 | 同意 
+734. persist [pə'sɪst] 
+    vi. 存留，坚持；持续，固执 
+    vt. 坚持说，反复说 
+    Persist: 坚持 | 持续 | 固执 
+735. temporal ['temp(ə)r(ə)l] 
+    n. 世间万物；暂存的事物 
+    n. (Temporal)人名；(法)唐波拉尔 
+    adj. 暂时的；当时的；现世的 
+    temporal: 一时的 | 时间的 | 暂时的 
+736. quartz [kwɔːts] 
+    n. 石英 
+    Quartz: 石英 | 石英 | Quartz 
+737. rebase [ri'beis] 
+    vt. 重定基底；复位基底 
+738. variations [,veəri:'eiʃənz] 
+    n. 变奏曲，变更；[生物] 变种（variation的复数形式） 
+    Variations: 变奏曲 | 变奏曲 | 变化 
+739. to no avail 
+    无效，完全无用 
+    to no avail: 完全无用 | 徒然 | 无效地 
+740. subtract [səb'trækt] 
+    vt. 减去；扣掉 
+741. scheduler [ˈʃɛdjuːlə] 
+    n. 调度程序；制表人，计划员；程序机 
+742. instantiates 
+    v. 实例化（instantiate的第三人称单数形式） 
+    instantiates: 例示 
+743. hierarchy ['haɪərɑːkɪ] 
+    n. 层级；等级制度 
+    hierarchy: 等级制度 | 层次 | 统治集团 
+744. boils down to 
+    归结为 
+    boils down to: 归结为 | 归结起来 
+745. technical ['teknɪk(ə)l] 
+    adj. 工艺的，科技的；技术上的；专门的 
+    Technical: 技术员 | 技术 | 武装货卡车 
+746. protections 
+    n. 保护（protection的复数）；保护动作 
+    Protections: 保护动作 | 保护 | 保护功能 
+747. stream [striːm] 
+    n. 溪流；流动；潮流；光线 
+    vt. 流出；涌出；使飘动 
+    vi. 流；涌进；飘扬 
+748. delimiter [dɪ'lɪmɪtə] 
+    n. [计] 定界符 
+    delimiter: 定界符 | 分隔符 | 分界符 
+749. converting [kən'və:tiŋ] 
+    n. 转化，改变；皈依 
+    v. 使改变；皈依（convert的现在分词）；兑换 
+    converting: 转换 | 吹炼 | 印染加工 
+750. introduced 
+    adj. 引进的；引种的 
+    v. 介绍；引进（introduce的过去分词） 
+    Introduced: 出台 | 外引 | 介绍 
+751. streams 
+    n. 数据流，流控制（stream复数形式） 
+    n. (Streams)人名；(英)斯特里姆斯 
+    v. 流淌；急驶；使…飘扬（stream的第三人称单数） 
+    Streams: 数据流 | 串流 | 流淌 
+752. predicate ['predɪkət] 
+    n. 谓语，述语 
+    adj. 谓语的；述语的 
+    vt. 断定为…；使…基于 
+    vi. 断言，断定 
+    predicate: 谓语 | 谓语 | 谓词 
+753. consisting of 
+    包含…；组成元素为… 
+    consisting of: 组成 | 包括 | 的组成 
+754. unbundled [,ʌn'bʌndld] 
+    v. 分类定价；把…分开（unbundle的过去式和过去分词） 
+    adj. 非捆绑的；分类定价的 
+    Unbundled: 松绑 | 非捆绑 | 非附随 
+755. availability [ə,veɪlə'bɪlətɪ] 
+    n. 可用性；有效性；实用性 
+    Availability: 可用性 | 可得性 | 有效性 
+756. kernel ['kɜːn(ə)l] 
+    n. 核心，要点；[计] 内核；仁；麦粒，谷粒；精髓 
+    Kernel: 内核 | 内核 | 核 (代数) 
+757. dramatically [drə'mætɪkəlɪ] 
+    adv. 戏剧地；引人注目地 
+    adv. 显著地，剧烈地 
+    Dramatically: 戏剧的 | 引人注目地 | 戏剧性地 
+758. carousel [,kærə'sel; -'zel] 
+    n. 旋转木马；行李传送带；轮播 
+    Carousel: 旋转木马 | 圆盘传送带 | 天上人间 
+759. tame [teɪm] 
+    adj. 驯服的；平淡的；乏味的；顺从的 
+    vt. 驯养；使变得平淡；制服 
+    vi. 变得驯服 
+    n. (Tame)人名；(捷)塔梅 
+760. insulting [ɪn'sʌltɪŋ] 
+    adj. 侮辱的，无礼的；污蔑的；损害人体的; 
+    v. 侮辱；损害（insult的ing形式） 
+761. multitask [mʌltɪ'tɑːsk] 
+    vt. 使多任务化; 
+    n. [计] 多任务 
+762. nascent ['næs(ə)nt; 'neɪ-] 
+    adj. 初期的；开始存在的，发生中的 
+    nascent: 幼稚的 | 初生的 | 初期的 
+763. skip [skɪp] 
+    n. 跳跃；跳读 
+    vt. 跳过；遗漏 
+    vi. 跳跃；跳绳；遗漏；跳读 
+    n. (Skip)人名；(英)斯基普 
+    skip: 略过 | 跳过 | 跳绳 
+764. interceptors 
+    n. 截击舰，[航][军] 截击机；拦截器；拦截者（interceptor的复数） 
+    Interceptors: 拦截器 | 拦截者 | 拦截机 
+765. persistent [pə'sɪst(ə)nt] 
+    adj. 固执的，坚持的；持久稳固的 
+    Persistent: 执着 | 持久稳固的 | 坚持的 
+766. protects 
+    保护 
+    保险 
+    protects: 保护 | 备款以支付 | 防护 
+767. president ['prezɪd(ə)nt] 
+    n. 总统；董事长；校长 
+    President: 总统 | 会长 | 校长 
+768. protect [prə'tekt] 
+    vt. 保护，防卫；警戒 
+    protect: 保护 | 防护 | 保卫 
+769. fear of 
+    害怕... 
+    担忧... 
+    对...恐惧 
+    fear of: 恐怖的 | 害怕的 | 因恐 
+770. deportation [diːpɔː'teɪʃ(ə)n] 
+    n. 驱逐出境；放逐 
+    deportation: 放逐 | 驱逐出境 | 驱逐 
+771. congress ['kɒŋgres] 
+    n. 国会；代表大会；会议；社交 
+    congress: 代表大会 | 国会 | 大会 
+772. permanent ['pɜːm(ə)nənt] 
+    adj. 永久的，永恒的；不变的 
+    n. 烫发（等于permanent wave） 
+    permanent: 永久的 | 积和式 | 永久性 
+773. legislative ['ledʒɪslətɪv] 
+    adj. 立法的；有立法权的 
+    n. 立法权；立法机构 
+    Legislative: 法制的 | 立法的 | 立法机构 
+774. makeshift ['meɪkʃɪft] 
+    adj. 临时的；权宜之计的；凑合的 
+    n. 权宜之计；凑合；临时措施；将就 
+    makeshift: 权宜之计 | 临时措施 | 凑合的 
+775. hurricane [ˈhʌrɪkən] 
+    n. 飓风，暴风 
+    Hurricane: 飓风 | 哈里肯 (犹他州) | 狂飙 
+776. the gulf coast 
+    海湾滨海地区 
+    The Gulf Coast: 地区 | 海湾滨海地区 
+777. trap in 
+    用…捕捉 
+    使困于 
+    陷入 
+    trap in: 陷入 | 在楼梯 | 使困于 
+778. resilient [rɪ'zɪlɪənt] 
+    adj. 弹回的，有弹力的 
+    adj. 能复原的；有复原力的 
+    resilient: 有回弹力的 | 有弹性的 | 有弹力 
+779. faith [feɪθ] 
+    n. 信仰；信念；信任；忠实; 
+    n. (Faith)人名；(匈)福伊特；(英)费思，费丝(女名)；(瑞典)法伊特 
+780. awesome ['ɔːs(ə)m] 
+    adj. 令人敬畏的；使人畏惧的；可怕的；极好的 
+    Awesome: 真了不起 | 另人竟为的 | 傲森 
+781. architecture ['ɑːkɪtektʃə] 
+    n. 建筑学；建筑风格；建筑式样；架构 
+    Architecture: 建筑 | 建筑学 | 架构 
+782. unexpected [ʌnɪk'spektɪd; ʌnek-] 
+    adj. 意外的，想不到的 
+783. for instance 
+    例如 
+    for instance: 例如 | 比如 | 举例来说 
+784. concept ['kɒnsept] 
+    n. 观念，概念 
+    concept: 概念 | 观念 | 思想 
+785. dependency injection 
+    依赖注入 
+    Dependency Injection: 依赖注入 | 依靠注入 | 依赖注射 
+786. violence ['vaɪəl(ə)ns] 
+    n. 暴力；侵犯；激烈；歪曲 
+    Violence: 暴力 | 强力 | 猛烈 
+787. complex ['kɒmpleks] 
+    adj. 复杂的；合成的 
+    n. 复合体；综合设施 
+    Complex: 情结 | 复杂 | 复合 
+788. political group 
+    政治团体 
+    political group: 政治上的派别 | 政治团体 | 政见团体 
+789. Syria ['si:riə; 'si-] 
+    n. 叙利亚共和国 
+    Syria: 叙利亚 | 叙利亚共和国 | 叙利亚 
+790. starving ['sta:viŋ] 
+    v. 挨饿（starve的ing形式）；使饿死 
+    adj. 饥饿的；挨饿的 
+    starving: 缺料 | 饥饿的 | 挨饿的 
+791. to protect 
+    保护；预防 
+    To protect: 全力保护 | 预防 | 保护 
+792. arrested [ə'restid] 
+    adj. 逮捕的；被捕的；被拘留的 
+    vi. [法] 逮捕；[法] 拘留；遏止（arrest的过去分词） 
+    vt. [法] 逮捕；[法] 拘留；阻止（arrest的过去分词） 
+    Arrested: 被捕 | 引人注目的 | 拘留 
+793. in transit 
+    在运输中；在途中 
+    in transit: 运送中的 | 中转 | 过境 
+794. parcel ['pɑːs(ə)l] 
+    n. 包裹，小包 
+    vt. 打包；捆扎 
+    n. (Parcel)人名；(英)帕斯尔 
+    parcel: 包裹 | 小包 | 一包 
+795. immigration [ɪmɪ'ɡreɪʃn] 
+    n. 外来移民；移居 
+    immigration: 外来移民 | 移民 | 入境 
+796. controversial [kɒntrə'vɜːʃ(ə)l] 
+    adj. 有争议的；有争论的 
+    controversial: 有争议的 | 争论的 | 引起争论的 
+797. threat [θret] 
+    n. 威胁，恐吓；凶兆 
+    Threat: 威胁 | 恐吓 | 挑战 
+798. be separated from 
+    与…分离 
+    be separated from: 与…隔离 | 和 | 被… 
+799. Melinda [mə'lində] 
+    n. 梅林达（女子名） 
+    Melinda: 梅林达 | 梅琳达 | 黑玫瑰 
+800. incredibly [ɪnˈkredəblɪ] 
+    adv. 难以置信地；非常地 
+    incredibly: 难以置信地 | 不能相信地 | 不可思议地 
+801. raised [reɪzd] 
+    v. 提高（raise的过去时和过去分词）；举起；抚育，抚养 
+    adj. 凸起的；发酵的；浮雕的 
+    Raised: 凸起 | 调升 | 浮雕的 
+802. responsibility [rɪˌspɒnsəˈbɪlətɪ] 
+    n. 责任，职责；义务 
+    Responsibility: 责任 | 职责 | 责任心 
+803. instincts ['instiŋkt] 
+    n. [生物] 本能（instinct的复数）；[心理] 直觉 
+    Instincts: 本能 | 直觉 | 本能 
+804. to dedicate 
+    奉献；贡献 
+    to dedicate: 贡献 | 奉献 
+805. talents ['tælənts] 
+    n. 人才；才能，天赋（talent的复数） 
+    Talents: 人才济济 | 人才 | 人才辈出 
+806. commitment to 
+    恪守承诺 
+    commitment to: 恪守承诺 | 致力委身于 | 投入 
+807. destructive [dɪ'strʌktɪv] 
+    adj. 破坏的；毁灭性的；有害的，消极的 
+    destructive: 破坏性的 | 毁灭性 | 破坏力 
+808. obituary [ə(ʊ)'bɪtʃʊərɪ; -tʃərɪ; -tjʊərɪ] 
+    n. 讣告 
+    adj. 讣告的；死亡的 
+    obituary: 讣告 | 补告 | 讣闻 
+809. Solaris 
+    n. （电影名称）飞向太空，索拉里斯星球；SUN微系统公司开发的一种网络操作系统 
+    Solaris: 索拉里斯星 (小说) | Solaris | 索拉里斯星 
+810. bullet ['bʊlɪt] 
+    n. 子弹；只选某党全部候选人的投票；豆子 
+    vi. 射出；迅速行进 
+    n. (Bullet)人名；(法)比莱 
+    Bullet: 子弹 | 子弹 | 项目符号 
+811. showcases 
+    陈列 
+    showcases: 陈列柜 | 展示 | 案例展示 
+812. puppeteer [pʌpɪ'tɪə] 
+    n. 操纵木偶的人；操纵傀儡 
+    vt. 操纵 
+    Puppeteer: 剪刀王子 | 木偶人 | 傀儡师 
+813. invalid [ˈɪnvəlɪd；ɪnˈvælɪd] 
+    n. 病人；残疾者 
+    adj. 无效的；有病的；残疾的 
+    vt. 使伤残；使退役 
+    vi. 变得病弱；因病而奉命退役 
+814. assumptions 
+    n. 假定，设想（assumption复数形式） 
+    Assumptions: 假设 | 假定 | 假想 
+815. instructor [ɪn'strʌktə] 
+    n. 指导书；教员；指导者 
+    instructor: 教练 | 教师 | 讲师 
+816. to evaluate 
+    评估；鉴定 
+    to evaluate: 鉴定 | 评价 | 作出评价 
+817. probably ['prɒbəblɪ] 
+    adv. 大概；或许；很可能 
+    Probably: 大概 | 很可能 | 没准 
+818. delivery [dɪ'lɪv(ə)rɪ] 
+    n. [贸易] 交付；分娩；递送 
+819. attempted [ə'temptid] 
+    adj. 企图的；未遂的 
+    v. 企图（attempt的过去式） 
+820. focus on ['fəʊkəs ɒn] 
+    集中于 
+    focus on: 集中考试大论坛 | 集中 | 集中测验大论坛 
+821. treat in 
+    以……对待 
+    treat in: 1873年协定 
+822. specifications 
+    n. 规格（specification的复数形式）；说明书 
+    Specifications: 规格 | 技术参数 | 性能规范 
+823. paradigm ['pærədaɪm] 
+    n. 范例；词形变化表 
+824. resent [rɪ'zent] 
+    vt. 怨恨；愤恨；厌恶 
+    resent: 愤恨 | 怨恨 | 厌恶 
+825. actual value 
+    [经] 实际价值；实际指标 
+    actual value: 实际值 | 实际价值 | 实际价格 
+826. instantiate [ɪn'stænʃɪeɪt] 
+    vt. 例示，举例说明 
+    instantiate: 实例化 | 例示 | 示例 
+827. returning 
+    n. 回归 
+    v. 归还，[计] 返回，回复（return的ing形式） 
+    Returning: 回归 | 复 | 归去来兮 
+828. vehicle [ˈvɪəkl] 
+    n. [车辆] 车辆；工具；交通工具；运载工具；传播媒介；媒介物 
+    vehicle: 交通工具 | 车辆 | 载具 
+829. instantaneous [,ɪnst(ə)n'teɪnɪəs] 
+    adj. 瞬间的；即时的；猝发的 
+    instantaneous: 瞬间的 | 瞬时的 | 即刻的 
+830. cookie cutter 
+    饼干模型切割刀；饼切；曲奇成型刀 
+    Cookie Cutter: 饼切 | 切割 | 曲奇成型刀 
+831. stamp out 
+    扑灭；踩灭 
+    stamp out: 扑灭 | 踩灭 | 踩出 
+832. an urgent need 
+    迫切需要 
+    an urgent need: 迫切需要 | 一种迫切需要 
+833. energy ['enədʒɪ] 
+    n. [物] 能量；精力；活力；精神 
+    energy: 能量 | 精力 | 活力 
+834. obscure [əb'skjʊə] 
+    adj. 模糊的；晦涩的；昏暗的 
+    vt. 遮掩；使变暗；使难理解 
+    Obscure: 恶夜杀机 | 晦涩的 | 模糊的 
+835. repair man 
+    修理工 
+    Repair man: 修车人 | 修理人员 | 修理工 
+836. strategize ['strætidʒaiz] 
+    vt. 为…制订战略 
+    vi. 制订战略 
+    strategize: 制定战略 | 制订战略 
+837. persisted 
+    v. 持续（persist的过去分词）；坚持不懈 
+    Persisted: 坚持不懈 | 持久化状态 
+838. parameter [pə'ræmɪtə] 
+    n. 参数；系数；参量 
+    Parameter: 参数 | 参量 | 指标参数 
+839. info ['ɪnfəʊ] 
+    n. 信息；情报 
+    Info: 信息 | 我的信息 | 统计 
+840. cursor ['kɜːsə] 
+    n. 光标；（计算尺的）[计] 游标，指针 
+    Cursor: 游标 | 光标 | 指针 
+841. varies 
+    v. 使不同；改变；违背（vary的三单形式） 
+    n. 多重复合 
+    VARIES: 变化 | 八卦 | 变化 
+842. genuine ['dʒenjʊɪn] 
+    adj. 真实的，真正的；诚恳的 
+    genuine: 真正的 | 真的 | 真诚的 
+843. subtle ['sʌt(ə)l] 
+    adj. 微妙的；精细的；敏感的；狡猾的；稀薄的 
+844. readability [,ri:də'biləti] 
+    n. 可读性；易读 
+845. architects 
+    n. [建] 建筑师（architect的复数形式） 
+    v. 设计；建造（architect的三单形式） 
+846. automatically [ɔːtə'mætɪklɪ] 
+    adj. 不经思索的 
+    adv. 自动地；机械地；无意识地 
+    automatically: 自动的 | 自然而然 | 无意识的 
+847. drag-n-drop 
+    拖放 
+    drag-n-drop: 拖泄 | 拖放 | 简单的拖拽 
+848. original [ə'rɪdʒɪn(ə)l; ɒ-] 
+    adj. 原始的；最初的；独创的；新颖的 
+    n. 原件；原作；原物；原型 
+    Original: 原始 | 有独创性的 | 原来 
+849. cycle ['saɪk(ə)l] 
+    n. 循环；周期；自行车；整套；一段时间 
+    vt. 使循环；使轮转 
+    vi. 循环；骑自行车；轮转 
+    Cycle: 周期 | 循环 | 环 (图论) 
+850. allocated ['æləkeitid] 
+    v. 分派（allocate的过去分词） 
+    adj. 分配的，指派的 
+    n. 分配值 
+    Allocated: 拨付 | 拨给 | 下拨 
+851. isomorphic [,aɪsə(ʊ)'mɔːfɪk] 
+    adj. [物] 同构的；同形的 
+    Isomorphic: 同形 | 同构的 | 同型的 
+852. determine [dɪ'tɜːmɪn] 
+    v. （使）下决心，（使）做出决定 
+    vt. 决定，确定；判定，判决；限定 
+    vi. 确定；决定；判决，终止；[主用于法律]了结，终止，结束 
+    Determine: 确定 | 决定 | 决心 
+853. extract from 
+    从…提取，文件的摘录 
+    extract from: 提取 | 叶倩文 | 提取物 
+854. preserving 
+    n. 保留，保存 
+    Preserving: 防护 | 保存 | 坚持的 
+855. homomorphism [,hɒmə(ʊ)'mɔːfɪz(ə)m; ,həʊm-] 
+    n. [数] 同态，同形；异质同形 
+856. post [pəʊst] 
+    n. 岗位；邮件；标杆 
+    n. (Post)人名；(英、西、捷、瑞典、荷)波斯特 
+    vt. 张贴；公布；邮递；布置 
+    vi. 快速行进 
+    Post: 贴子 | 职位 | Post 
+857. convert [kən'vɜːt] 
+    n. 皈依者；改变宗教信仰者 
+    vt. 使转变；转换…；使…改变信仰 
+    vi. 转变，变换；皈依；改变信仰 
+    n. (Convert)人名；(法)孔韦尔 
+    convert: 转换 | 改变 | 转变 
+858. anagram ['ænəgræm] 
+    n. 相同字母异序词，易位构词，变位词 
+    Anagram: 易位构词游戏 | 易位构词游戏 | 回文构词法 
+859. represent as 
+    把…描绘成 
+    represent as: 代表作为 | 表示为 | 作为代表 
+860. covered ['kʌvəd] 
+    v. 覆盖；包括；掩护（cover的过去分词） 
+    adj. 覆盖了的；隐蔽着的；有屋顶的 
+    Covered: 布满 | 铺上 | 挂满 
+861. deck [dek] 
+    n. 甲板；行李仓；露天平台 
+    vt. 装饰；装甲板；打扮 
+    n. (Deck)人名；(英、法、德)德克 
+    deck: 甲板 | 层面 | 整付牌 
+862. schedule [ˈʃedju:l] 
+    n. 时间表；计划表；一览表 
+    vt. 安排，计划；编制目录；将……列入计划表 
+    Schedule: 时间表 | 日程安排 | 计划表 
+863. river ['rɪvə] 
+    n. 河，江 
+    n. (River)人名；(英)里弗 
+    River: 河流 | 河流 | 川流 (字体排印学) 
+864. choose to 
+    选择；决定 
+    Choose To: 决定 | 选择 | 复制 
+865. introduce [ɪntrə'djuːs] 
+    vt. 介绍；引进；提出；采用 
+    Introduce: 企业介绍 | 介绍 | 采用 
